@@ -35,7 +35,7 @@ This is my first simple React-based Counter application where you can add or sub
 ## Live Demo
 Made with 💻 by [Khalil Haider](https://www.github.com/mkhalilhaider).
 
-This app is deployed using Netlify. You can view it live at [Counter-app](https://your-app-name.netlify.app).
+This app is deployed using Netlify. You can view it live at [Counter-app](https://countapp-react.netlify.app).
 
 ## 🤝 Connect with Me
 
